@@ -1,0 +1,8 @@
+item {
+	name: 'AppleIphone6S'
+	id: 1
+	}
+item {
+	name: 'SamsungAndroidJ1'
+	id: 2
+}
